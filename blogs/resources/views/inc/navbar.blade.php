@@ -16,7 +16,7 @@
           <a class="nav-link" href="/Laravel-first-project/blogs/public/services">Services</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/Laravel-first-project/blogs/public/posts">Posts</a>
+          <a class="nav-link" href="/Laravel-first-project/blogs/public/posts">Blog</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
@@ -26,6 +26,9 @@
             <a class="dropdown-item" href="#">Something else here</a>
           </div>
         </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right mr-2" >
+        <li><a href="/Laravel-first-project/blogs/public/posts/create">Create Post</a></li>
       </ul>
       <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
