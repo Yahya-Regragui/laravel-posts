@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1ae161064b7a80c63857d78b5355cfaf",
+    "content-hash": "0deff277433f3fed8c36e839a6d37ac4",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -120,16 +120,16 @@
         },
         {
             "name": "ckeditor/ckeditor",
-            "version": "4.16.0",
+            "version": "4.7.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/ckeditor/ckeditor4-releases.git",
-                "reference": "98a1bce9c9237e2ee141c0d2e01c3f0576655d5d"
+                "url": "https://github.com/ckeditor/ckeditor-releases.git",
+                "reference": "8edc5545364d3bd2b928852a7c270a044d1b3ea4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ckeditor/ckeditor4-releases/zipball/98a1bce9c9237e2ee141c0d2e01c3f0576655d5d",
-                "reference": "98a1bce9c9237e2ee141c0d2e01c3f0576655d5d",
+                "url": "https://api.github.com/repos/ckeditor/ckeditor-releases/zipball/8edc5545364d3bd2b928852a7c270a044d1b3ea4",
+                "reference": "8edc5545364d3bd2b928852a7c270a044d1b3ea4",
                 "shasum": ""
             },
             "type": "library",
@@ -142,14 +142,13 @@
             "authors": [
                 {
                     "name": "CKSource",
-                    "homepage": "https://cksource.com"
+                    "homepage": "http://cksource.com"
                 }
             ],
             "description": "JavaScript WYSIWYG web text editor.",
-            "homepage": "https://ckeditor.com/ckeditor-4/",
+            "homepage": "http://ckeditor.com",
             "keywords": [
                 "CKEditor",
-                "ckeditor4",
                 "editor",
                 "fckeditor",
                 "html",
@@ -159,12 +158,12 @@
                 "wysiwyg"
             ],
             "support": {
-                "forum": "https://stackoverflow.com/tags/ckeditor",
-                "issues": "https://github.com/ckeditor/ckeditor4/issues",
-                "source": "https://github.com/ckeditor/ckeditor4",
-                "wiki": "https://ckeditor.com/docs/ckeditor4/latest/"
+                "forum": "http://ckeditor.com/forums",
+                "issues": "http://dev.ckeditor.com",
+                "source": "http://github.com/ckeditor/ckeditor-dev",
+                "wiki": "http://docs.ckeditor.com"
             },
-            "time": "2021-01-27T08:14:09+00:00"
+            "time": "2017-05-25T16:15:26+00:00"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
